@@ -1,0 +1,11 @@
+## 스프링부트로 쇼핑몰만들기
+- java 11
+- maven
+- spring boot 2.7.5
+- depencies
+  - Lombok
+  - Thymeleaf
+  - Spring Data JPA
+  - Spring Web
+  - MySQL Driver
+  - H2 Database
